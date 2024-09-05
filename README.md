@@ -59,6 +59,8 @@ The output will be:
 ```Java
 1900 - not a leap year
 ```
+This application serves a very niche purpose and is not easily modified to fufill any other application purpose.
+
 ## Contributions
 Eric Keeton
 
